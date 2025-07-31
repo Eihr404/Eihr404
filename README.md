@@ -1,5 +1,5 @@
 ## Soy Israel Hernández
-Estudiante de Ingeniería en Sistemas (5.º semestre), con sólidas bases en programación estructurada y orientada a objetos. Me especializo en el desarrollo de software, incluyendo aplicaciones Android y proyectos de escritorio, así como en la creación y gestión de bases de datos relacionales (SQL/SQLite).
+Estudiante de Ingeniería en Sistemas, con sólidas bases en programación estructurada y orientada a objetos. Me especializo en el desarrollo de software, incluyendo aplicaciones Android y proyectos de escritorio, así como en la creación y gestión de bases de datos relacionales (SQL/SQLite).
 
 ### Lenguajes que manejo
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
